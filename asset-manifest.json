@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.002a29d7.chunk.css",
-    "main.js": "/static/js/main.b1d1e358.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.dd532961.js",
-    "static/js/2.9b77d22c.chunk.js": "/static/js/2.9b77d22c.chunk.js",
-    "index.html": "/index.html",
-    "precache-manifest.fb8229bdc98daa9e3b02eaf318e085ac.js": "/precache-manifest.fb8229bdc98daa9e3b02eaf318e085ac.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.9b77d22c.chunk.js.LICENSE.txt": "/static/js/2.9b77d22c.chunk.js.LICENSE.txt"
+    "main.css": "/humane-warriors/static/css/main.002a29d7.chunk.css",
+    "main.js": "/humane-warriors/static/js/main.75f8b79d.chunk.js",
+    "runtime-main.js": "/humane-warriors/static/js/runtime-main.df9233d9.js",
+    "static/js/2.9b77d22c.chunk.js": "/humane-warriors/static/js/2.9b77d22c.chunk.js",
+    "index.html": "/humane-warriors/index.html",
+    "precache-manifest.c61ad28b7e53e84106a6ba746f9e0430.js": "/humane-warriors/precache-manifest.c61ad28b7e53e84106a6ba746f9e0430.js",
+    "service-worker.js": "/humane-warriors/service-worker.js",
+    "static/js/2.9b77d22c.chunk.js.LICENSE.txt": "/humane-warriors/static/js/2.9b77d22c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dd532961.js",
+    "static/js/runtime-main.df9233d9.js",
     "static/js/2.9b77d22c.chunk.js",
     "static/css/main.002a29d7.chunk.css",
-    "static/js/main.b1d1e358.chunk.js"
+    "static/js/main.75f8b79d.chunk.js"
   ]
 }
